@@ -1,3 +1,6 @@
+# Code Review Fun Exercise
+This is an exercise for performing code review and unit testing on an arbitrary set of code. move_car.py contains the original code modified slightly after code review. new_move_car.py contains the skeleton of a more clean version of move_car.py. Code was found at [http://codereview.stackexchange.com/questions/155913/create-two-vehicles-move-them-on-a-grid-based-on-user-input](stackexchange)
+
 # codeReviewFun
 
 ## Directions
